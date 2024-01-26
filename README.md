@@ -24,7 +24,7 @@ This project focuses on forecasting stock market trends using a hybrid approach.
 ![gru](https://github.com/Pk7372singh/hybrid-stock-market-forcasting/assets/92020279/25ca5100-1049-4bee-a896-be9f19f738bf)
 
 ### Pr![activation](https://github.com/Pk7372singh/hybrid-stock-market-forcasting/assets/92020279/9f106e0f-26e9-4a15-9f1e-ba2e63327d80)
-erequisites
+
 
 Make sure you have the following libraries installed:
 
@@ -44,4 +44,7 @@ import matplotlib.pyplot as plt
 # Calling the file in nyse named prices.csv
 df = pd.read_csv("prices.csv", header=0)
 ```
+![Screenshot 2024-01-26 153431](https://github.com/Pk7372singh/hybrid-stock-market-forcasting/assets/92020279/f238de1a-6bab-4e30-ae2d-c859831649cb)
 
+
+![Screenshot 2024-01-26 153458](https://github.com/Pk7372singh/hybrid-stock-market-forcasting/assets/92020279/a0a12df5-faae-4edd-a785-0d4264f3efdd)
