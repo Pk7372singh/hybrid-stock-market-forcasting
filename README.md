@@ -16,9 +16,15 @@ This project focuses on forecasting stock market trends using a hybrid approach.
 
 - **fundamentals.csv**: Metrics extracted from annual SEC 10K filings (2012-2016), providing ample information to derive popular fundamental indicators.
 
+- Algorithm used : RNN,LSTM,GRU
 
 
-### Prerequisites
+![Lstm](https://github.com/Pk7372singh/hybrid-stock-market-forcasting/assets/92020279/3fb8b5c0-220e-4d8f-bd7e-cc54b70e8eaa)
+
+![gru](https://github.com/Pk7372singh/hybrid-stock-market-forcasting/assets/92020279/25ca5100-1049-4bee-a896-be9f19f738bf)
+
+### Pr![activation](https://github.com/Pk7372singh/hybrid-stock-market-forcasting/assets/92020279/9f106e0f-26e9-4a15-9f1e-ba2e63327d80)
+erequisites
 
 Make sure you have the following libraries installed:
 
